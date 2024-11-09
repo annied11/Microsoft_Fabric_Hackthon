@@ -4,6 +4,7 @@
 
 To run this project, ensure you have the following Python packages installed:
 
+- `Python 3.12`
 - `pandas` 
 - `numpy` 
 - `matplotlib` 
